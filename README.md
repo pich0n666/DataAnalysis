@@ -6,9 +6,9 @@
 
 ## Descripción breve
 
-Dashboard de Capital Humano con Power BI, Excel y Python. Incluye KPIs, análisis por edad, género, antigüedad y sector. Limpieza de datos, reporte mensual y visualizaciones interactivas.
+Dashboard de Capital Humano con Power BI, Excel y Python. Incluye KPIs, análisis por género, antigüedad y sector. Limpieza de datos, reporte mensual y visualizaciones interactivas.
 
-**EN:** Human Capital Dashboard using Power BI, Excel, and Python. Includes KPIs, analysis by age, gender, seniority, and department. Data cleaning, monthly report, and interactive visuals.
+**EN:** Human Capital Dashboard using Power BI, Excel, and Python. Includes KPIs, analysis by gender, seniority, and department. Data cleaning, monthly report, and interactive visuals.
 
 ## Funcionalidades
 
@@ -17,7 +17,7 @@ Dashboard de Capital Humano con Power BI, Excel y Python. Incluye KPIs, análisi
 - Automatización de reportes mensuales en Excel (con fórmulas, tablas dinámicas y slicers)
 - Visualización de KPIs clave:
   - Promedio de antigüedad
-  - Cantidad por sector, género y edad
+  - Cantidad por sector y género
   - Empleados activos e inactivos
 - Dashboard interactivo en Power BI
 - Slicers por género, sector, estado y antigüedad
@@ -39,7 +39,7 @@ Dashboard de Capital Humano con Power BI, Excel y Python. Incluye KPIs, análisi
 
 ## Autor
 
-Proyecto desarrollado por [Tu Nombre] como parte de un portfolio de análisis de datos con foco en Capital Humano.
+Proyecto desarrollado por Marcos Soraire como parte de un portfolio de análisis de datos con foco en Capital Humano.
 
 Proyecto de análisis de datos con Power BI, Excel, SQL y Python.
 KPIs Estratégicos de Capital Humano:
